@@ -1,0 +1,7 @@
+{
+  "name": "md5node",
+  "version": "1.0.0",
+  "dependencies": {
+    "typescript": "^4.4.3"
+  }
+}
